@@ -26,7 +26,7 @@ function App() {
       </div>
       <hr />
       <p className="read-the-docs">
-        Derechos reservados 2024 | Ing. Victor Ml Nunez
+        &copy; Derechos reservados 2024 | Ing. Victor Ml Nunez
       </p>
     </>
   );
